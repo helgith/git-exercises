@@ -5,4 +5,6 @@ class ProblemSolver
   def solve_hard_problem
   end
 
+  def solve_tough_problem
+  end
 end
